@@ -1,12 +1,12 @@
 ﻿ID_Key;Tag_Typ;Ebene_1_Bereich;Ebene_2_Taetigkeit;Ebene_3_Kunde;Ebene_4_Ort
-ID-8AGNJ9Z3;NFC;"Sport";"Gym";"";""
-ID-HCSSIYVM;NFC;"Sport";"Laufen";"";""
-ID-E8BE3HM2;NFC;"Sport";"Schwimmen";"";""
-ID-LITXJEMA;NFC;"Indianer Meditation";"";"";""
-ID-C5HV26WP;NFC;"Dehnen";"Schiatsu";"";""
-ID-T5QUHE1M;NFC;"Dehnen";"Rumpf";"";""
-ID-47DKEFOA;NFC;"";"Qi";"";""
-ID-SSI8P40L;NFC;"BTZ";"Werkstatt";"";""
-ID-1BXS7I3V;NFC;"BTZ";"App Entwicklung";"";""
-ID-JZ32D9CN;NFC;"BTZ";"Verteilzeit";"Externe Post - Spiel u. Spaß - ungeplante Tätigkeiten";""
-ID-DQSQ4LPV;NFC;"BTZ";"Arbeitspause";"";""
+ID-8AGNJ9Z3;NFC;Sport;Gym;;
+ID-HCSSIYVM;NFC;Sport;Laufen;;
+ID-E8BE3HM2;NFC;Sport;Schwimmen;;
+ID-LITXJEMA;NFC;Indianer Meditation;;;
+ID-C5HV26WP;NFC;Dehnen;Schiatsu;;
+ID-T5QUHE1M;NFC;Dehnen;Rumpf;;
+ID-47DKEFOA;NFC;;Qi;;
+ID-SSI8P40L;NFC;BTZ;Werkstatt;;
+ID-1BXS7I3V;NFC;BTZ;App Entwicklung;;
+ID-JZ32D9CN;NFC;BTZ;Verteilzeit;Externe Post - Spiel u. Spaß - ungeplante Tätigkeiten;Büro Standards - Routine
+ID-DQSQ4LPV;NFC;BTZ;Arbeitspause;;
